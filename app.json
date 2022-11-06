@@ -9,9 +9,9 @@
     "forward",
     "bot"
   ],
-  "success_url": "https://t.me/shijilraj",
-  "website": "https://github.com/Sh-Jil/Forwardit",
-  "repository": "https://github.com/Sh-Jil/Forwardit",
+  "success_url": "https://t.me/Saheer_gamer",
+  "website": "https://github.com/testgithubitok/Forwardit",
+  "repository": "https://github.com/testgithubitok/Forwardit",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
@@ -50,7 +50,7 @@
       "value": "document"
     },
     "SESSION": {
-      "description": "Pyrogram string Seccion https://replit.com/@ShJil/PyroSessionString",
+      "description": "Pyrogram string Seccion https://replit.com/@testgithubitok/PyroSessionString",
       "value": ""
     }
   },
