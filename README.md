@@ -12,7 +12,7 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sh-Jil/Forwardit)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/testgithubitok/Forwardit)
 
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
@@ -20,7 +20,7 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 
 Deploy in your vps
 ```sh
-git clone https://github.com/Sh-Jil/Forwardit
+git clone https://github.com/testgithubitok/Forwardit
 cd Forwardit
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
